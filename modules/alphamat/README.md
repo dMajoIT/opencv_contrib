@@ -1,9 +1,12 @@
 # Computer Vision based Alpha Matting
 
+![Example Alpha Matt](https://www.researchgate.net/profile/Yagiz-Aksoy-2/publication/318489370/figure/fig2/AS:818474377048065@1572150906228/The-trimap-is-shown-overlayed-on-the-original-image-b-where-the-extended-foreground.jpg)
+
 This project was part of the Google Summer of Code 2019.
 
-####Student: Muskaan Kularia
-####Mentor: Sunita Nayak
+#### Student: Muskaan Kularia
+#### Mentor: Sunita Nayak
+
 ***
 Alphamatting is the problem of extracting the foreground from an image. Given the input of an image and its corresponding trimap, we try to extract the foreground from the background.
 

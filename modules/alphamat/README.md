@@ -1,6 +1,8 @@
 # Computer Vision based Alpha Matting
 
-![Example Alpha Matt](https://www.researchgate.net/profile/Yagiz-Aksoy-2/publication/318489370/figure/fig2/AS:818474377048065@1572150906228/The-trimap-is-shown-overlayed-on-the-original-image-b-where-the-extended-foreground.jpg)
+![Trimap Alphamat Example from Askoy et al 2017](https://github.com/opencv/opencv_contrib/assets/810997/5cafae51-18e1-4e75-9035-6b40c9a064cb)
+
+
 
 This project was part of the Google Summer of Code 2019.
 
